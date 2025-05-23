@@ -1,15 +1,8 @@
-# url2html
+# urls2html
 
-A simple CLI tool to convert a list of URLs into an HTML file with clickable links.
+A tiny CLI tool that converts a list of URLs (one per line) into an HTML file with clickable links.
 
-## Usage
+## 📦 Installation
 
 ```bash
-url2html input.txt output.html
-```
-
-# Install
-
-```
-go install github.com/0xLegendKiller/url2html@latest
-```
+go install github.com/0xLegendKiller/urls2html@latest
